@@ -1,0 +1,32 @@
+.calculadora{ 
+width: 300px;
+height: 400px;
+background-color: rgb(168, 231, 228);
+margin-left: 40%;
+
+}
+
+.calc{
+    margin-left: 12px;
+}
+
+
+.n1 { 
+    padding: 15px;
+    font-size: 20px;
+}
+.n2{ 
+    padding: 15px;
+    font-size: 20px;
+}
+button{ 
+    width:96%;
+    font-size: 20px;
+
+}
+button:hover{ 
+    cursor: pointer;
+    background-color:rgb(255, 199, 208)
+}
+
+
